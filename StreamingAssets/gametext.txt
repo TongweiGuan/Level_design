@@ -1,0 +1,7 @@
+idevent	speaker	text	nextevent	LastEventInSequence	imageAsset	audioAsset
+0	Player	Try to collect more points!	1	N	PlayerDialogueImage	opensound1
+1	Player	Let's go!	2	Y	PlayerDialogueImageMove	startsound
+2	Player	Too easy for you! Let's try next level!	-1	Y	PlayerDialogueImageMove	endingsound	
+3	Player	Well done! Try to find speedups! They can help you!	-1	Y	PlayerDialogueImageMove	endingsound
+4	Player	Fantastic! One more to go!	-1	Y	PlayerDialogueImageMove	endingsound
+5	Player	You are so great!	-1	Y	PlayerDialogueImageMove	endingsound
